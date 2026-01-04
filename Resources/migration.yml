@@ -916,6 +916,9 @@ RandomHumanoidSpawnerERTMedicalAmberVeteran: RandomHumanoidSpawnerERTMedicalAmbe
 RandomHumanoidSpawnerERTSecurityAmberVeteran: RandomHumanoidSpawnerERTSecurityAmber
 RandomHumanoidSpawnerCBURNVeteran: RandomHumanoidSpawnerCBURNUnitEVA
 RandomHumanoidSpawnerERTLeaderGammaVeteran: RandomHumanoidSpawnerERTLeaderGamma
+VendingMachineMayson: null
+DrinkLukin: null
+DrinkFourteenLokoPlusCan: null
 # SL HITSCAN START
 BoxMagazineRifle: BoxMagazineRifleSP
 MagazineBoxLightRifle: MagazineBoxLightRifleSP
@@ -944,6 +947,10 @@ HyposprayMedical: null
 HyposprayMedicalNoFilterBox: null
 GrenadeFlashTimer: null
 
+ImplantExtractorMachineCircuitboard: InterrogatorMachineCircuitboard
+
+# 2026-01-02
+EnergyDomeWiredTest: null
 # Sunrise-End
 
 #Fish-start
